@@ -1,0 +1,2 @@
+# readTensorflowGraphFromPy
+c++にpython埋め込んで画像を食わせてtensorflowのグラフを動かすサンプル。
