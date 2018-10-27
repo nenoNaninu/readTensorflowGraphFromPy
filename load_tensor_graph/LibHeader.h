@@ -35,4 +35,5 @@
 #pragma comment(lib, "opencv_videoio320.lib")
 #pragma comment(lib, "opencv_videostab320.lib")
 #pragma comment(lib, "opencv_world320.lib")
+#pragma comment(lib, "winmm.lib")
 #endif
